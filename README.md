@@ -1,4 +1,5 @@
 # Cat_Feed_Amount_Calculator
+구글 플레이스토어 : https://play.google.com/store/apps/details?id=org.techtown.catpracticeproject
 
 ## 🍀소개
 고양이 사료 일일 급여량을 계산해주는 계산기 어플입니다.(20/8/11)
